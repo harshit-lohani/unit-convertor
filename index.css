@@ -107,7 +107,8 @@ button {
     line-height: 20px;
     /* or 100% */
     
-    margin: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
     text-align: center;
     
     color: #5A537B;
